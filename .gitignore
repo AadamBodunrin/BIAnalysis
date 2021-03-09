@@ -131,8 +131,6 @@ dmypy.json
 
 .ipynb_checkpoints/
 *.npy
-*.xlsx 
-*.csv
 untitledi.py
 untitled.py
 \.vscode
